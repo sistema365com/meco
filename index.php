@@ -1,5 +1,5 @@
 <?php
 
-echo "Meco Test";
+echo "Meco Test .";
 
 ?>
