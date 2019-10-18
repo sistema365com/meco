@@ -1,2 +1,2 @@
-# meco
-MercadoConnecting
+# meco - MercadoConnecting
+Publicador Masivo de MLA
