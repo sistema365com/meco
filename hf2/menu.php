@@ -9,7 +9,7 @@ $permisosDeUsuario= explode(',', $_SESSION['permisos']);
                 <!-- Start left navigation - profile shortcut -->
                 <div id="tour-8" class="sidebar-content">
                     <div class="media">
-                        <a class="pull-left has-notif avatar" href="mi-perfil.php">
+                        <a class="pull-left has-notif avatar" href="usuarios.php?s=miPerfil">
                             <img src="img/users/<?php echo $fotoDePerfil; ?>.jpg" alt="admin">
                             <i class="online"></i>
                         </a>
