@@ -1,0 +1,40 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+# 1 MES
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|swf|js|xml|txt|css)$">
+Header set Cache-Control "max-age=604800, public"
+</FilesMatch>
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+AddOutputFilterByType DEFLATE application/xml
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresDefault "access plus 10 days"
+ExpiresByType text/css "access plus 1 week"
+ExpiresByType text/plain "access plus 1 week"
+ExpiresByType image/gif "access plus 1 month"
+ExpiresByType image/png "access plus 1 month"
+ExpiresByType image/jpeg "access plus 1 month"
+ExpiresByType image/x-icon "access plus 3 months"
+ExpiresByType application/x-javascript "access plus 1 month"
+ExpiresByType application/javascript "access plus 1 week"
+ExpiresByType text/javascript "access plus 1 week"
+ExpiresByType application/x-icon "access plus 3 months"
+</IfModule>
+IndexIgnore * 
+<IfModule mod_filter.c>
+AddOutputFilterByType DEFLATE application/atom+xml application/javascript application/json application/rss+xml application/xhtml+xml application/xml image/svg+xml image/x-icon text/css text/html text/plain text/x-component text/xml
+</IfModule>
+<FilesMatch "\.(php|cgi|swf)$">
+    Header unset Cache-Control
+    Header unset Expires
+    Header unset Last-Modified
+    FileETag None
+    Header unset Pragma
+</FilesMatch>
+
+

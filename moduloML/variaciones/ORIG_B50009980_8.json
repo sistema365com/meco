@@ -1,0 +1,30 @@
+[  
+      {  
+         "attribute_combinations":[  
+            {  
+               "name":"Voltaje",
+               "value_name":"220V"
+            }
+         ],
+         "picture_ids": [
+            "http:arcomaquinarias.com/art/A50009980.jpg"
+         ],
+         "price":7000,
+         "available_quantity":4,
+         "sold_quantity":2
+      },
+      {  
+         "attribute_combinations":[  
+            {  
+               "name":"Voltaje",
+               "value_name":"110V"
+            }
+         ],
+         "picture_ids": [
+            "http:arcomaquinarias.com/art/A50009980.jpg"
+         ],
+         "price":7000,
+         "available_quantity":4,
+         "sold_quantity":2
+      }
+]

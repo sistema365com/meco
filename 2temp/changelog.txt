@@ -1,0 +1,221 @@
+In this file I will explain more detail about change log Blankon version. Enjoy cheers! :D
+
+Update 1.1.10 (-) - Latest
+----------
+ - NEW: Blankon special (Investor)
+ - NEW: Blankon Codeigniter (pure framework) version
+ - IMPROVEMENT: Blankon Codeigniter+Smarty (add all files framework CI)
+ - UPDATED: Update documentation page (Codeigniter)
+
+Update 1.1.9 (29/09/2016)
+----------
+ - NEW: Blankon special (Human Resources)
+ - UPDATED: Cubeportfolio update version from 3.7.0 to 3.8.0 (Latest version)
+
+Update 1.1.8 (24/08/2016)
+----------
+ - NEW: Blankon special (E-Commerce System)
+ - NEW: Blankon special (Project Management) add project design
+ - UPDATED: Update version MDBootstrap plugin to v3.4.1 (latest version)
+ - UPDATED: Update documentation page (HTML) add menu Blankon special
+
+Update 1.1.7 (12/07/2016)
+----------
+ - FIX: Decompression issues zip file
+
+Update 1.1.6 (07/07/2016)
+----------
+ - NEW: Blankon special (Project Management)
+ - NEW: Frontend themes (Revolution Slider)
+ - UPDATED: Cubeportfolio update version from 3.6.0 to 3.7.0
+ - UPDATED: Slider Revolution update version from 5.1.6 to 5.2.0
+ - IMPROVEMENT: Add feature choose preloader frontend themes on documentation page
+
+Update 1.1.5 (13/03/2016)
+----------
+ - NEW: Material design version
+ - NEW: One page revolution slider (photography type 2)
+ - NEW: UI features notifications page
+ - IMPROVEMENT: Framework for material design FREE & PRO (mdbootstrap.com) (save $49)
+
+Update 1.1.4 (15/02/2016)
+----------
+ - NEW: One page revolution slider (gym)
+ - NEW: One page revolution slider (not generic)
+ - NEW: One page revolution slider (fashion)
+ - UPDATED: Update version cubeportfolio plugin to v3.5.2 (latest version)
+
+Update 1.1.3 (10/02/2016)
+----------
+ - NEW: Datatable with unlimited features
+ - NEW: One page revolution slider (web product light)
+ - NEW: One page revolution slider (web product dark)
+ - NEW: One page revolution slider (photography)
+ - NEW: One page revolution slider (restaurant)
+ - IMPROVEMENT: Add new search system design for implementation on project
+ - IMPROVEMENT: Add rating popular github on third party plugins
+ - UPDATED: Update version cubeportfolio plugin to v3.4.3 (latest version)
+ - UPDATED: Update version revolution slider plugin to v5.1.6 (latest version)
+
+Update 1.1.2 (13/11/2015)
+----------
+ - NEW: App showcase one page frontend theme
+ - NEW: Dashboard human resources (HR) design
+ - NEW: Dashboard retail analysis design
+ - NEW: Map vector type 2 design
+ - IMPROVEMENT: Add tour guide on dashboard basic design
+ - IMPROVEMENT: Include retina display to all version
+ - IMPROVEMENT: Add partial plugins SASS & LESS
+ - IMPROVEMENT: Change UI/UX design on all documentation file
+ - IMPROVEMENT: Add panel tabs
+
+
+Update 1.1.1 (20/09/2015)
+----------
+ - NEW: Dashboard marketing campaign design
+ - NEW: Dashboard real estate design
+ - NEW: Project team board
+ - NEW: Project team profile
+ - NEW: Project clients
+ - NEW: Component list group basic
+ - NEW: Component list group samples
+ - NEW: UI Feature Bootstrap tour
+ - NEW: UI Feature grid stack
+ - IMPROVEMENT: Form picker (add date range picker)
+ - IMPROVEMENT: Blog grid type 2 (add search system)
+ - IMPROVEMENT: Widget social (add overview social facebook, twitter, youtube)
+ - IMPROVEMENT: Widget overview (add mini stat type 5)
+
+Update 1.1.0 (03/09/2015)
+----------
+ - NEW: Dashboard investor design
+ - NEW: Dashboard projects design
+ - NEW: Easy pie chart page
+ - NEW: Component flag icon CSS
+ - NEW: Form picker
+ - NEW: Project issue tracker
+ - NEW: Chart chartist
+ - IMPROVEMENT: Component tabs & accordions (add border color on tabs)
+ - IMPROVEMENT: Component modals (add modal form layout)
+ - IMPROVEMENT: Widget overview (add mini stat type 4)
+ - IMPROVEMENT: Table samples (add issue list table)
+
+Update 1.0.10 (26/08/2015)
+----------
+ - NEW: E-Commerce dashboard design
+ - NEW: Gallery page type 3
+ - NEW: Gallery page type 4
+ - NEW: Project portfolio design type 4
+ - NEW: Peity charts page
+ - NEW: Table samples page
+ - NEW: Timeline page type 2
+ - IMPROVEMENT: Table color page
+ - IMPROVEMENT: Component other (label, badge, progress bar)
+ - IMPROVEMENT: Widget overview (add mini stats type 2)
+ - IMPROVEMENT: Widget misc (add recent activity)
+ - UPDATED: Bootstrap changed version to 3.3.5
+ - UPDATED: Font Awesome changed version to 4.4.0
+
+Update 1.0.9 (17/08/2015)
+----------
+ - NEW: Blog post design type 2
+ - NEW: Project team design
+ - NEW: Project portfolio design
+ - NEW: Project portfolio design type 2
+ - NEW: Project portfolio design type 3
+ - NEW: Gallery page type 2
+ - NEW: Search page basic
+ - NEW: Mail templates
+ - NEW: Mail responsive layout
+ - IMPROVEMENT: Component others
+ - IMPROVEMENT: Component Tabs & Accordions (add tabs animation)
+
+Update 1.0.8 (07/02/2015)
+----------
+ - NEW: Blankon Yeoman + GruntJS
+ - NEW: Initial documentation for Yeoman version
+ - UPDATED: Documentation page on HTML version
+ - IMPROVEMENT: Preprocessor CSS using SASS + Compass
+ - FIXED: Bug fixing on lost password AngularJS version
+
+Update 1.0.7 (09/05/2015)
+----------
+ - NEW: Blankon Codeigniter + Smarty (template engine) version
+ - NEW: FAQ page design
+ - NEW: Animate.css page design
+ - IMPROVEMENT: Add Slider Revolution plugin commercial
+ - IMPROVEMENT: Add Cube Portfolio plugin commercial
+ - FIXED: Bug fixing on sidebar left style on all versions
+
+Update 1.0.6 (23/04/2015)
+----------
+
+ - NEW: Blankon PHP version
+ - NEW: Login style type 2 design
+ - NEW: Video page
+ - UPDATED: Bootstrap Library to v3.3.4
+ - IMPROVEMENT: Add installation guide Yii2 version
+ - IMPROVEMENT: Add installation guide Laravel version
+ - IMPROVEMENT: Logic JS Blankon AJAX version
+ - IMPROVEMENT: Simple line icons component
+ - FIXED: Bug fixing on responsive style
+ - FIXED: Bug fixing on Blankon AJAX version
+
+Update 1.0.5 (07/04/2015)
+----------
+
+ - NEW: Blankon AJAX version
+ - NEW: Initial documentation for AJAX version
+ - NEW: Gallery page design
+ - IMPROVEMENT: Add change log detail file
+
+Update 1.0.4 (24/03/2015)
+----------
+
+ - NEW: Blankon Laravel Framework version
+ - NEW: Initial documentation for Laravel Framework version
+ - NEW: Simple line icons pack
+ - IMPROVEMENT: JQuery plugins (x-editable, select2)
+ - IMPROVEMENT: add sub menu style on sidebar left
+ - IMPROVEMENT: add menu versions on documentation HTML
+
+Update 1.0.3 (07/03/2015)
+----------
+
+ - IMPROVEMENT: Blog design page
+ - UPDATED: Logic JS files
+ - UPDATED: Documentation page
+
+Update 1.0.2 (01/03/2015)
+----------
+
+ - NEW: Blankon Yii2 Framework version
+ - NEW: Initial documentation for Yii2 Framework version
+ - UPDATED: Font Awesome version 4.3.0
+ - FIXED: Some minor bug fixing AngularJS version
+ - FIXED: Some minor bug fixing HTML version
+
+Update 1.0.1 (17/02/2015)
+----------
+
+ - NEW: Blankon AngularJS version
+ - NEW: Initial documentation for AngularJS version
+ - NEW: Search courses page
+ - NEW: Start page (Frontend)
+ - NEW: Error 403 type 2
+ - UPDATED: Bootstrap Library to v3.3.1
+ - UPDATED: Change sidebar style with add mail apps, blog apps and pages
+ - IMPROVEMENT: Glyphicons Pro package (save **$59**)
+ - IMPROVEMENT: Table default
+ - IMPROVEMENT: Bower packages available on documentation page
+ - REMOVED: Close sidebar content
+ - REMOVED: Folder development & folder dev on assets admin
+ - REMOVED: Folder live preview
+ - REMOVED: Preloader image on load page
+ - REMOVED: Minified file CSS & JS
+ - FIXED: Some minor bug fixing
+
+Update 1.0.0 (07/11/2014)
+----------
+
+ - Initial release
