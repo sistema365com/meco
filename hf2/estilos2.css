@@ -1,0 +1,216 @@
+.boton-fijo{
+    left: 0px;
+    bottom: 0px;
+    position: fixed;
+    background-color: black;
+    padding: 10px;
+    width: 100%;
+    background-color: rgba(246, 187, 66, 0.35);
+}
+.boton-fijo button{
+  float: right;
+}
+#cargando {
+    position:absolute;
+
+    width:100%;
+    height:100%;
+    /*background: #F6BB42 url('../form/ajax-loader.gif') no-repeat center;*/
+    background: rgba(88, 79, 59, 0.79) url('../form/ajax-loader.gif') no-repeat center;
+    z-index: 50;
+}
+.tutoriales ul{
+  list-style: none;
+}
+.tutoriales .header{
+  font-size: 30px;
+  color: black;
+}
+.imgPodio{
+  width: 70px;
+  border-radius: 50px;
+  float: left;
+  border: 4px solid #ffd700;
+}
+.imgPodio2{
+  width: 70px;
+  border-radius: 50px;
+  float: left;
+  border: 4px solid #CDB332;
+}
+.imgPodio3{
+  width: 70px;
+  border-radius: 50px;
+  float: left;
+  border: 4px solid #dcdcdc;
+}
+.textoPodio{
+  float: left;
+  margin-left: 20px;
+  font-size: 20px;
+}
+.logoRussia{
+  bottom: 0px;
+  margin: 10px;
+  position: fixed;
+}
+.logoRussia img{
+  max-width: 100px;
+}
+.anuncio{
+  text-transform: uppercase;
+  background-color: black;
+  color: white;
+  font-weight: 50px;
+  border-radius: 5px;
+}
+.pronosticoL input{
+  width: 50px;
+  float: right;
+  text-align: center;
+}
+.pronosticoV input{
+  width: 50px;
+  float: left;
+  text-align: center;
+}
+.pronosticoL label{
+  float: left;
+}
+.pronosticoV label{
+  float: right;
+}
+.escudoL{
+  max-width: 25px;
+  float: left;
+  margin-right: 15px;
+}
+.escudoV{
+  max-width: 25px;
+  float: right;
+  margin-left: 15px;
+}
+.filtros a{
+  text-decoration: none;
+  margin: 10 10px;
+  padding: 10px;
+  background-color: #337ab7;
+  color: white;
+  transition: 1s;
+}
+.filtros a:hover{
+  background-color: rgba(0, 0, 0, 0.39);
+}
+.filtros{
+  margin-bottom: 20px;
+}
+.logoPanel{
+  max-width: 100px;
+  bottom: 2px;
+  position: fixed;
+  margin-left: 7px;
+  transition: 2000ms;
+}
+.logoPanel:hover{
+  max-width: 150px;
+  bottom: 2px;
+  position: fixed;
+  margin-left: 7px;
+  transform: rotate(360deg);
+}
+.error{
+  color: black;
+  font-size: 8px;
+  text-transform: uppercase;
+  right: 30px;
+  position: absolute;
+  padding: 5px;
+  background-color: red;
+  border-radius: 2px;
+}
+.user-image{
+  margin: 5px auto;
+  border-radius: 5px;
+  max-width: 100px;
+  box-shadow: 0 0 5px black;
+}
+.aclaracion{
+  font-size: 12px;
+  color: #B4BFB9;
+  margin: 5px;
+
+}
+.nota-image{
+  max-width: 100%;
+  margin: 5px auto;
+}
+.btn-eliminar{
+  text-decoration: none;
+  display: inline-block;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  padding: 8px;
+}
+.btn-eliminar:hover{
+  box-shadow: inset 0 0 5px black;
+  text-decoration: none;
+  display: inline-block;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  padding: 8px;
+}
+.btn-editar{
+  text-decoration: none;
+  display: inline-block;
+  background-color: #4E4CBF;
+  color: white;
+  border-radius: 5px;
+  padding: 8px;
+}
+.btn-editar:hover{
+  box-shadow: inset 0 0 5px black;
+  text-decoration: none;
+  display: inline-block;
+  background-color: #4E4CBF;
+  color: white;
+  border-radius: 5px;
+  padding: 8px;
+}
+.pendiente{
+  text-transform: uppercase;
+  color: white;
+  background-color: #F79617;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 5px;
+  border-radius: 5px;
+}
+.disponible{
+  text-transform: uppercase;
+  color: white;
+  background-color: #385DFF;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 5px;
+  border-radius: 5px;
+}
+.conflicto{
+  text-transform: uppercase;
+  color: white;
+  background-color: #FF0614;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 5px;
+  border-radius: 5px;
+}
+.retirado{
+  text-transform: uppercase;
+  color: white;
+  background-color: #25C045;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 5px;
+  border-radius: 5px;
+}
