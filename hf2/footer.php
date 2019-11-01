@@ -126,7 +126,7 @@
                                             <div class="media-list working">
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="Daddy Botak">
+                                                        
                                                         <i class="online"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -137,7 +137,7 @@
                                                 </a><!-- /.media -->
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="Sarah Tingting">
+                                                        
                                                         <i class="offline"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -149,7 +149,7 @@
                                                 </a><!-- /.media -->
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="">
+                                                        
                                                         <i class="busy"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -160,7 +160,7 @@
                                                 </a><!-- /.media -->
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="Claudia Cinta">
+                                                        
                                                         <i class="online"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -171,7 +171,7 @@
                                                 </a><!-- /.media -->
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="">
+                                                        
                                                         <i class="busy"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -549,7 +549,7 @@
                                             <div class="media-list">
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="Daddy Botak">
+                                                        
                                                         <i class="online"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -560,7 +560,7 @@
                                                 </a><!-- /.media -->
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="Sarah Tingting">
+                                                        
                                                         <i class="offline"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -572,7 +572,7 @@
                                                 </a><!-- /.media -->
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="...">
+                                                        
                                                         <i class="busy"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -583,7 +583,7 @@
                                                 </a><!-- /.media -->
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="Harry Potret">
+                                                        
                                                         <i class="online"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -594,7 +594,7 @@
                                                 </a><!-- /.media -->
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="...">
+                                                        
                                                         <i class="busy"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -619,7 +619,7 @@
                                             <div class="media-list">
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="Jeck Joko">
+                                                        
                                                         <i class="online"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -630,7 +630,7 @@
                                                 </a><!-- /.media -->
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="Tenny Imoet">
+                                                        
                                                         <i class="busy"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -641,7 +641,7 @@
                                                 </a><!-- /.media -->
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="Leli Madang">
+                                                        
                                                         <i class="offline"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -653,7 +653,7 @@
                                                 </a><!-- /.media -->
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="Rebecca Cabean">
+                                                        
                                                         <i class="offline"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -665,7 +665,7 @@
                                                 </a><!-- /.media -->
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="...">
+                                                        
                                                         <i class="busy"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -690,7 +690,7 @@
                                             <div class="media-list">
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="Sishy Mawar">
+                                                        
                                                         <i class="offline"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -702,7 +702,7 @@
                                                 </a><!-- /.media -->
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="Mbah Roso">
+                                                        
                                                         <i class="away"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
@@ -714,7 +714,7 @@
                                                 </a><!-- /.media -->
                                                 <a href="#" class="media">
                                                     <div class="media-object pull-left has-notif">
-                                                        <img src="https://img.djavaui.com/?create=30x30,4888E1?f=ffffff" class="img-circle" alt="...">
+                                                        
                                                         <i class="busy"></i>
                                                     </div><!-- /.media-object -->
                                                     <div class="media-body">
