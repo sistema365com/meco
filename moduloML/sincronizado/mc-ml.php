@@ -25,7 +25,7 @@ for ($i=0; $i < count($verArticulo); $i++) {
 			En esta sección podes importar todos los datos que tenemos en MercadoConnecting, a tu cuenta de Mercado Libre. (Precio, Stock, Descripción)<br>
 
 			Si queres actualizar solo stock y precios de todos los articulos de manera mas rapida, hacelo desde aquí: 
-			<a target="_blank" href="http://mercadoconnecting.com/app/timer-ml/publicador.php?u=<?php echo $_SESSION['empresa']; ?>">Actualizar TODOS</a> <br>
+			<a target="_blank" href="https://sistema365.com/meco/timer-ml/publicador.php?u=<?php echo $_SESSION['empresa']; ?>">Actualizar TODOS</a> <br>
 			Tené en cuenta que esto puede demorar dependiendo la cantidad de artículos que tengas publicados.
 		</p>
 	</div>
