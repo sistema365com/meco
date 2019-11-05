@@ -189,9 +189,9 @@ function insertar($tabla, $datos)
     
     $opciones  = array(\PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8");
     $link = new \PDO(
-        "mysql:host=localhost;dbname=mconnect_basegeneral",
-        "mconnect_cliente", //usuario
-        "4pwUzorS)xl#", //pass
+        "mysql:host=localhost;dbname=u430849600_mconnecting",
+								"u430849600_mcon", //usuario
+								"Password0", //pass
                                 // "mysql:host=localhost;dbname=kensho_publicador_abm",
                                 // "kensho_clienteml", //usuario
                                 // "kRu3pTv),.Z~", //pass
