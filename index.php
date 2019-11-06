@@ -149,7 +149,7 @@ include 'class/Autocarga.php';
 	<link rel="stylesheet" type="text/css" href="estilos.css"> <!--linkear a hoja de estilos css selector de clases-->
 	<body>
 		<div id="form">
-		<img class="logoprincipal" src="img/logoBlack.png">
+		<img class="logoprincipal" src="img/iso.png">
 			<form action="acciones/login-usuarios.php" method="POST" onsubmit="return poneUser()">
 				<label for=""><span class="ion-person"></span> Usuario</label>
 				<input autofocus="true" id="user" autofocus="true" type="text" name="user" value="">
