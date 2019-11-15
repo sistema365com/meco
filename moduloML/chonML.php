@@ -4,7 +4,7 @@ $aplicacion = array(
     //'KEY' => '6pBbVXfvoetRX682lCHEgMlRy3jU0ojd',
     'ID' => '6846725864595797',
     'KEY' => 'LudeYSBieMaAck9RgXlI6tcm929fzUZq',
-	'URL' => 'https://sistema365.com/mercadoconnecting/app/checkAPI.php',
+	'URL' => 'https://sistema365.com/meco/checkAPI.php',
  );
 $_SESSION['ID']= $aplicacion['ID'];
 $_SESSION['KEY']= $aplicacion['ID'];

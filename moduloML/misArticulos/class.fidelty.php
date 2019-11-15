@@ -57,6 +57,7 @@ class Fidelity
                 $urlFidelity= "https://rest.fidelitytools.net/MercadoConnecting/Catalogo/ObtenerCatalogo/$key/$catalogo/0/$articulo/false/$desde/$hasta";
             }
             // echo $urlFidelity;
+            //https://rest.fidelitytools.net/MercadoConnecting/Catalogo/ObtenerCatalogo/62a4f3b17d4fa3cb22d01b663ee2ecf1/NDc4Mg/0/0/false/0/0
             $ch = curl_init($urlFidelity);
             //a true, obtendremos una respuesta de la url, en otro caso, 
             //true si es correcto, false si no lo es
